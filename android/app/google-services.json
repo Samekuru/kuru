@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739038388988",
+    "project_id": "foods-8a3b3",
+    "storage_bucket": "foods-8a3b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739038388988:android:aafacd3fc72978b187ad79",
+        "android_client_info": {
+          "package_name": "com.samet.kuru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739038388988-1565mtgipr9gh40t0r2oa7lojf58v9tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samet.kuru",
+            "certificate_hash": "44656152438fba8b5dbbecea4d3c19f5431fc7c1"
+          }
+        },
+        {
+          "client_id": "739038388988-0fogmbn0vn4su9rkoira3jbup2h6m89n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdz3DIXikWNN2OXN-yNN2Bj0gazW1B4jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739038388988-0fogmbn0vn4su9rkoira3jbup2h6m89n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
